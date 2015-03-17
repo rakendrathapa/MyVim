@@ -6,4 +6,4 @@ Get this config, nice color schemes and lots of plugins !
 users can just copy the Vim plugins into the respective folder and copy the _vimrc 
 file. This will work wonderfully. 
 
-This is configured as a beautiful Source Code browser as well with Pressing <F8> key.
+This is configured as a beautiful Source Code browser with Press of F8 key.
